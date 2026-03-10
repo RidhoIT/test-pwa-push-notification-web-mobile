@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192">
+  <defs>
+    <linearGradient id="grad192" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="192" height="192" rx="38.400000000000006" fill="url(#grad192)"/>
+  <g transform="translate(96, 96)">
+    <path d="M0 -48 C-28.799999999999997 -48 -48 -19.200000000000003 -48 9.600000000000001 L-48 28.799999999999997 L-57.599999999999994 42.24 L57.599999999999994 42.24 L48 28.799999999999997 L48 9.600000000000001 C48 -19.200000000000003 28.799999999999997 -48 0 -48 Z" 
+          fill="white" stroke="white" stroke-width="3.84" stroke-linejoin="round"/>
+    <path d="M-23.04 42.24 Q0 67.19999999999999 23.04 42.24" 
+          fill="none" stroke="white" stroke-width="7.68" stroke-linecap="round"/>
+    <path d="M-67.19999999999999 -9.600000000000001 Q-80.64 9.600000000000001 -67.19999999999999 28.799999999999997" 
+          fill="none" stroke="white" stroke-width="4.800000000000001" stroke-linecap="round" opacity="0.7"/>
+    <path d="M67.19999999999999 -9.600000000000001 Q80.64 9.600000000000001 67.19999999999999 28.799999999999997" 
+          fill="none" stroke="white" stroke-width="4.800000000000001" stroke-linecap="round" opacity="0.7"/>
+  </g>
+</svg>

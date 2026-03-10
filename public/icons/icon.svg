@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="192" height="192" rx="40" fill="url(#bgGradient)"/>
+  
+  <!-- Bell Icon -->
+  <g transform="translate(96, 96)">
+    <!-- Bell body -->
+    <path d="M0 -40 C-25 -40 -40 -20 -40 5 L-40 25 L-50 35 L50 35 L40 25 L40 5 C40 -20 25 -40 0 -40 Z" 
+          fill="white" stroke="white" stroke-width="3" stroke-linejoin="round"/>
+    
+    <!-- Bell clapper -->
+    <path d="M-20 35 Q0 55 20 35" 
+          fill="none" stroke="white" stroke-width="6" stroke-linecap="round"/>
+    
+    <!-- Sound waves -->
+    <path d="M-55 -10 Q-65 5 -55 20" 
+          fill="none" stroke="white" stroke-width="4" stroke-linecap="round" opacity="0.7"/>
+    <path d="M55 -10 Q65 5 55 20" 
+          fill="none" stroke="white" stroke-width="4" stroke-linecap="round" opacity="0.7"/>
+  </g>
+</svg>
